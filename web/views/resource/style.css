@@ -1,0 +1,50 @@
+body {
+    background: #ffffff;
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+#header {
+    background: #0084b4;
+    width: 100%;
+    height: 55px;
+}
+
+#container {
+    background: #ffffff;
+    margin: auto auto;
+    text-align: center;
+    width: 90%;
+    height: 400px;
+}
+
+#navigation {
+    background: #c0deed;
+    width: 100%;
+    height: 25px;
+}
+
+#sidebar {
+    background: #c0deed;
+    float: right;
+    width: 20%;
+    height: 400px;
+}
+
+#content {
+    background: #DCDCDC;
+    float: right;
+    width: 80%;
+    height: 400px;
+}
+
+#clear {
+    clear: both;
+}
+
+#footer {
+    background: #0084b4;
+    width: 100%;
+    height: 40px;
+}
